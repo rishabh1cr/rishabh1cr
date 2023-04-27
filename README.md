@@ -32,7 +32,7 @@
 <br>
 ### Show some ❤️ by starring some of the repositories!
 
-   <p align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+   <p align="left"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </div>
 
 
