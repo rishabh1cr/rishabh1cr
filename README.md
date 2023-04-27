@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh1cr&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh1cr" /> </p>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh1cr&theme=algolia" alt="rishabh1cr" /></p>
+
 - 👨‍💻 All of my projects are available at [https://github.com/rishabh1cr/](https://github.com/rishabh1cr/)
 
 - 📝 I regularly write articles on [https://hashnode.com/@RishabhvSingh](https://hashnode.com/@RishabhvSingh)
@@ -24,3 +26,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabh1cr&show_icons=true&locale=en" alt="rishabh1cr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh1cr&" alt="rishabh1cr" /></p>
+
+
+### Show some ❤️ by starring some of the repositories!
+
+   <p align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</div>
+
+
+
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/rishabh1cr/count.svg)
