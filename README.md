@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
-<h3 align="center">Currently working with Accenture as DevOps Engineer with 3+ years of experience. 🎯</h3>
+<h3 align="center">DevOps Engineer with 3+ years of experience. 🎯</h3>
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh1cr&theme=algolia" alt="rishabh1cr" /></p>
 <br>
